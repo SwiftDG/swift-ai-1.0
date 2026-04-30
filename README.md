@@ -1,4 +1,4 @@
-# Swift AI 1.0 🤖
+# Swift AI 1.0
 
 A rule-based chatbot with a rude personality — no external APIs, 
 pure logic and pattern matching.
